@@ -1,0 +1,2 @@
+# demo_gradle_plugin_kor
+demo_gradle_plugin_kor
